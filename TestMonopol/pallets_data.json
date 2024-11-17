@@ -1,0 +1,42 @@
+﻿[
+  {
+    "PalletID": "Pallet-1",
+    "Width": 120,
+    "Height": 150,
+    "Depth": 100,
+    "Boxes": [
+      {
+        "BoxID": "Box-1",
+        "Width": 50,
+        "Height": 20,
+        "Depth": 30,
+        "Weight": 10,
+        "ProductionDate": "2023-06-01"
+      },
+      {
+        "BoxID": "Box-2",
+        "Width": 40,
+        "Height": 15,
+        "Depth": 25,
+        "Weight": 8,
+        "ExpirationDate": "2023-12-01"
+      }
+    ]
+  },
+  {
+    "PalletID": "Pallet-2",
+    "Width": 120,
+    "Height": 150,
+    "Depth": 100,
+    "Boxes": [
+      {
+        "BoxID": "Box-3",
+        "Width": 60,
+        "Height": 25,
+        "Depth": 35,
+        "Weight": 12,
+        "ProductionDate": "2023-07-01"
+      }
+    ]
+  }
+]
